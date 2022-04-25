@@ -1,0 +1,22 @@
+"DOS Main Files","Everything from the MS-DOS 6.22 floppy disks.",4,"dos",2,"c:\dos",0
+"Supplemental Disk","Includes AccessDOS, Keyboard utilities,
+A program for creating a bootable compressed floppy disk, MS-DOS Shell,
+Utilities from MS-DOS 5.0 that were not included with MS-DOS 6.22,
+and Updated network files for MS-DOS 6.22.",1,"sup622",1,"c:\dos",1
+"Sound Drivers","SB AWE PNP - Sound Blaster AWE PnP
+SB PCI - Sound Blaster PCI
+SB Live! - Sound Blaster Live!
+ISA 688 - ESS ISA 688/1688
+VIA AC97 - VIA AC97
+CM AC97 - C-Media AC97",3,"sound",1,"c:\sound",1
+"CD-ROM Drivers","You need these to use a CD-ROM drive.",2,"cdrom",2,"c:\cdrom",0
+"Mouse Driver","Allows you to use a mouse in DOS.",2,"ctmouse",2,"c:\dos",0
+"DOSLFN","Driver for long file names.",2,"doslfn",1,"c:\dos",0
+"WINA20.386","You need this file to use Windows 3.0.
+(if the install location is changed this will not work)",1,"wina20",1,"c:",0
+"DOS Navigator","A file manager.",1,"dn151",0,"c:\dn",0
+"Volkov Commander","A file manager.",1,"vc",0,"c:\vc",0
+"Graphic Vision File Manager","A file manager.",1,"gvfm",0,"c:\gvfm",0
+"CDP","A CD player.",1,"cdp",0,"c:\cdp",0
+"Quick View Pro","A video player.",1,"qvpro",0,"c:\qv",0
+"MPXPLAY","A music player.",1,"mpxplay",0,"c:\mpxplay",0
