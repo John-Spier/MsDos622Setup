@@ -1,0 +1,7 @@
+lastdrive=z
+device=himem.sys
+devicehigh=xdvd2.sys /d:banana01
+devicehigh=vide-cdd.sys /d:banana01
+devicehigh=gcdrom.sys /d:banana01
+devicehigh=eltorito.sys /d:banana01
+stacks=9,256
